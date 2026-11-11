@@ -33,5 +33,5 @@ Fullstack JavaScript-разработчик из Могилева. Делаю в
 
 ## Связаться
 
-[![Telegram](https://img.shields.io/badge/Telegram-@devgri-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/devgri)
+[![Telegram](https://img.shields.io/badge/Telegram-@grishatraf-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/grishatraf)
 [![Email](https://img.shields.io/badge/Email-grishalazovskiy455%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:grishalazovskiy455@gmail.com)
